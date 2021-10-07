@@ -56,8 +56,14 @@ while True:
                      
         name="None matching"
         
-        if(pred[0][0]>0.5):
+        if(pred[0][0]>0.9):
             name='Aarush'
+        if(pred[0][1]>0.9):
+            name='Deepesh'
+        if(pred[0][2]>0.9):
+            name='Mihir'
+        if(pred[0][3]>0.9):
+            name='Saatvik'            
         cv2.putText(frame,name, (50, 50), cv2.FONT_HERSHEY_COMPLEX, 1, (0,255,0), 2)
     else:
         cv2.putText(frame,"No face found", (50, 50), cv2.FONT_HERSHEY_COMPLEX, 1, (0,255,0), 2)
