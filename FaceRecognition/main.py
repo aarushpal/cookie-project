@@ -116,7 +116,7 @@ if(flag is True):
     # with mic as source:
     #     command_audio = r.listen(source)
     # command_text = r.recognize_google(command_audio)
-    sample = "show me the news"
+    sample = "open app"
     classification_model = load_model('finalmodel2.h5')
     vocab_size = 30000
     embedding_dim  = 32
@@ -200,7 +200,7 @@ elif(labels_pred == np.array([7])):
 
 elif(labels_pred == np.array([6])):
       
-    print("\n\t 1.MICROSOFT WORD \t 2.MICROSOFT POWERPOINT \n\t 3.MICROSOFT EXCEL \t 4.GOOGLE CHROME \n\t 5.VLC PLAYER	 \t 6.ADOBE ILLUSTRATOR \n\t 7.ADOBE PHOTOSHOP \t 8.MICROSOFT EDGE \n\t 9.NOTEPAD	 \t 10.TELEGRAM \n\n\t\t	 0. FOR EXIT")
+    print("\n\t 1.MICROSOFT WORD \t 2.MICROSOFT POWERPOINT \n\t 3.MICROSOFT EXCEL \t 4.GOOGLE CHROME \n\t 5.VLC PLAYER	 \t 6.ADOBE ILLUSTRATOR \n\t 7.ADOBE PHOTOSHOP \t 8.MICROSOFT EDGE \n\t 9.NOTEPAD	 \t 10.CAMERA \n\n\t\t	 0. FOR EXIT")
     while True:
         p = input()
         p = p.upper()
@@ -217,14 +217,14 @@ elif(labels_pred == np.array([6])):
             pyttsx3.speak("GOOGLE CHROME")
             print(".")
             print(".")
-            os.system("chrome")
+            os.system("start chrome.exe")
 
         elif ("IE" in p) or ("MSEDGE" in p) or ("EDGE" in p) or ("8" in p):
             pyttsx3.speak("Opening")
             pyttsx3.speak("MICROSOFT EDGE")
             print(".")
             print(".")
-            os.system("msedge")
+            os.system("start msedge.exe")
             
         elif ("NOTE" in p) or ("NOTES" in p) or ("NOTEPAD" in p) or ("EDITOR" in p) or ("9" in p):
             pyttsx3.speak("Opening")
@@ -238,28 +238,39 @@ elif(labels_pred == np.array([6])):
             pyttsx3.speak("VLC PLAYER")
             print(".")
             print(".")
-            os.system("VLC")
+            os.system("start vlc.exe")
 
         elif ("EXCEL" in p) or ("MSEXCEL" in p) or ("SHEET" in p) or ("WINEXCEL" in p) or ("3" in p):
             pyttsx3.speak("Opening")
             pyttsx3.speak("MICROSOFT EXCEL")
             print(".")
             print(".")
-            os.system("excel")
+            os.system("start excel.exe")
             
         elif ("SLIDE" in p) or ("MSPOWERPOINT" in p) or ("PPT" in p) or ("POWERPNT" in p) or ("2" in p):
             pyttsx3.speak("Opening")
             pyttsx3.speak("MICROSOFT POWERPOINT")
             print(".")
             print(".")
-            os.system("powerpnt")
+            os.system("start powerpnt.exe")
 
         elif ("WORD" in p) or ("MSWORD" in p) or ("1" in p):
             pyttsx3.speak("Opening")
             pyttsx3.speak("MICROSOFT WORD")
             print(".")
             print(".")
-            os.system("winword")
+            os.system("start winword.exe")
+
+        # elif ("camera" in p) or ("photo" in p) or ("10" in p):
+        #     pyttsx3.speak("Opening")
+        #     pyttsx3.speak("CAMERA")
+        #     print(".")
+        #     print(".")
+        #     import subprocess,os
+        #     subprocess.run('start microsoft.windows.camera:', shell=True)
+            
+
+        
 
 	# close the program
         elif ("EXIT" in p) or ("QUIT" in p) or ("CLOSE" in p) or ("0" in p):
