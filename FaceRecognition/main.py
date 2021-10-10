@@ -105,18 +105,19 @@ while True:
         break
 video_capture.release()
 cv2.destroyAllWindows()
-print(flag)
-print(name)
+#print(flag)
+#print(name)
 
 
 
 if(flag is True):
-    # r = sr.Recognizer()
-    # mic = sr.Microphone()
-    # with mic as source:
-    #     command_audio = r.listen(source)
-    # command_text = r.recognize_google(command_audio)
-    sample = "open app"
+    r = sr.Recognizer()
+    mic = sr.Microphone()
+    with mic as source:
+        print("SPEAK: ")
+        command_audio = r.listen(source)
+    command_text = r.recognize_google(command_audio)
+    print(command_text)
     classification_model = load_model('finalmodel2.h5')
     vocab_size = 30000
     embedding_dim  = 32
@@ -127,20 +128,20 @@ if(flag is True):
 
     for word in stopwords:
         token = " " + word + " "
-        sample = sample.replace(token, " ")
-        sample = sample.replace("  ", " ")
-    sentence_test_seq = tokenizer.texts_to_sequences([sample])
+        command_text = command_text.replace(token, " ")
+        command_text = command_text.replace("  ", " ")
+    sentence_test_seq = tokenizer.texts_to_sequences([command_text])
     sentence_test_padded = pad_sequences(sentence_test_seq, padding='post', maxlen=max_length)
     labels_pred = np.argmax(classification_model.predict(sentence_test_padded),axis = -1) 
-    print(labels_pred)
-    print(labels_pred.shape)
+    #print(labels_pred)
+    #print(labels_pred.shape)
 
 
 ##### FEATURES #####
 
 
 if(labels_pred == np.array([1]) or labels_pred == np.array([3])):
-        for j in search(sample, tld='com', num=10, stop=10, pause=2):
+        for j in search(command_text, tld='com', num=10, stop=10, pause=2):
             print(j)
 
 
@@ -186,7 +187,7 @@ elif(labels_pred == np.array([4]) or labels_pred ==  np.array([5])):
 elif(labels_pred == np.array([7])):
 
     googlenews = GoogleNews()
-    googlenews.search(sample)
+    googlenews.search(command_text)
     result = googlenews.result()
     print(len(result))
 

@@ -1,0 +1,850 @@
+Action_needed,Subcategory,Sentence
+1,None,Illuminate the None today.
+1,None,Illuminate the None tomorrow.
+1,None,Turn on the light in the None in 10 hours.
+1,None,Turn on the light in the None in 1 day.
+1,None,Illuminate the dining room today.
+1,None,Don't illuminate the dining room today.
+1,None,Illuminate the dining room tomorrow.
+1,None,Turn on the light in the dinin room in 10 hours.
+1,None,Turn on the light in the dining room in 1 day.
+1,None,Turn on the light in the None.
+0,None,Don't turn on the light right now.
+0,None,I would get mad if you'd put on the light right now.
+1,None,I would not like it if you wouldn't turn on the light right now.
+1,None,Is the light on in the living room.
+1,None,Would you illuminate the living room in one hour for me please.
+1,None,It would be great if you'd turn on the light for me.
+1,None,Light on in None.
+1,None,Light off in living room in a few hours.
+1,None,Turn the light off in the None.
+1,None,Turn the light off in the dining room.
+1,None,I would like if you made it brighter.
+1,None,I would like if you made it brighter in 3 minutes.
+1,None,Can you make it brighter here in 8 minutes?
+1,None,Can you make it more dark here?
+1,None,Don't make it more dark here.
+1,None,I would get mad if you would turn on the light in the dining room right now.
+1,None,Is the light on in the None?
+1,None,Is the light on in the None.
+1,None,Has the light been on long in the None?
+1,None,Has the light been off long in the None?
+1,None,Is the light in the None on?
+1,None,Did you turn on the light already?
+1,None,Can you please turn on the light?
+1,None,Help me to turn on the light.
+1,None,Can you please turn on the light in a minute?
+1,None,Help me to turn on the light in a minute.
+1,None,It is so dark here.
+1,None,I can't see anything.
+1,None,Lighten the room.
+1,None,Can you please turn on the light in a few minutes?
+1,None,Help me to turn on the light in a few minutes.
+1,None,Lighten the room in a few minutes.
+1,None,Lighten the room in 5 minutes.
+1,None,Turn the light off in the None in 10 minutes.
+1,None,Don't turn the light off in the None in 10 minutes.
+1,None,Make it less dark in the None now.
+1,None,Turn on the light in the None.
+1,None,Illuminate the None.
+1,None,Turn off the lights in one hour.
+1,None,Turn on the light.
+1,Google,Flicker the lights for me.
+1,None,Turn on the refrigerator.
+1,None,Turn on the oven.
+1,None,Turn on the music system.
+1,None,Turn off the light in the None.
+1,None,Turn off the light in the None.
+1,None,Turn off the light in the None.
+1,None,Turn off the light in the None.
+1,None,Turn off the light in the None.
+1,None,Turn off the light in the dining room.
+1,None,Turn off the light in the None.
+1,None,Turn off the lights in the None.
+1,None,Turn off the lights in the None.
+1,None,Turn off the lights in the None.
+1,None,Turn off the lights in the None.
+1,None,Turn off the lights in the None.
+1,None,Turn off the lights in the dining room.
+1,None,Turn off the lights in the None.
+1,None,Turn off something in 45 minutes.
+1,None,Turn on something.
+1,None,Put on a random appliance in 7 days.
+1,None,lights.
+1,None,Can you make it less dark in the None tomorrow?
+1,None,Can you make it less dark in the None tomorrow?
+1,None,Turn on the light in the None in one hour.
+1,None,Can you turn off the lights in the None?
+1,None,I would get mad if you turn on the lights right now.
+1,None,It is dark in the None.
+1,None,It is dark in the None.
+1,None,It is dark in the living room.
+1,None,It is dark in the None.
+1,None,It is dark in the None.
+1,None,It is dark in the None.
+1,None,It is dark in the None.
+1,None,Can you make it less dark in the dining room in 5 minutes?
+1,None,Can you make it less dark in the None in 85 minutes?
+1,None,Can you make it less dark in the None in 5 minutes?
+1,None,Can you make it less dark in the None in 45 minutes?
+1,None,Can you make it less dark in the None in 15 minutes?
+1,None,Can you make it less dark in the None in 50 minutes?
+1,None,Can you make it less dark in the None in 5 minutes?
+1,None,Can you make it more bright in the dining room in 15 hours?
+1,None,Can you make it more bright in the None in 50 hours?
+1,None,Can you make it more bright in the None in an hour?
+1,None,Can you make it more bright in the None in 5 days?
+1,None,Can you make it more bright in the None in 5 weeks?
+1,None,Can you make it more bright in the None in 2 minutes?
+1,None,Can you make it more bright in the None in 5 minutes?
+1,None,Can you make it less bright in the dining room in 15 hours?
+1,None,Can you make it less bright in the None in 50 hours?
+1,None,Can you make it less bright in the None in an hour?
+1,None,Can you make it less bright in the None in 5 days?
+1,None,Can you make it less bright in the None in 5 weeks?
+1,None,Can you make it less bright in the None in 2 minutes?
+1,None,Can you make it less bright in the None in 5 minutes?
+1,None,Don't turn off the lights.
+1,None,Turn on the lights when I get None.
+1,None,Turn on the lights when it's dark None.
+1,None,Turn off the lights when it is light None.
+1,None,Was there any motion between september and october?
+1,None,Was the camera in the None on yesterday?
+1,None,Was the camera in the None on yesterday?
+1,Google,Was there motion?
+1,None,Is the recording device on?
+1,None,Was there motion with the motion viewer?
+1,None,Would you tell me if there was any motion on the camera None?
+1,None,Was there any motion on the camera None?
+1,None,Was there movement on the camera in the None yesterday?
+1,None,Was there movement on the camera in the None yesterday?
+1,None,Was there movement on the camera in the None yesterday?
+1,None,Was there movement on the camera in the None yesterday?
+1,None,Was there movement on the camera in the living room yesterday?
+1,None,I would like it that you'd tell me if the camera in the living room is on.
+1,Google,Where there strangers tonight at my house?
+1,Google,Did you see any movement tonight?
+1,None,Was there something strange None?
+1,Google,Is there something I should know about the motion?
+1,Google,What do you see on the camera?
+1,Google,How many cameras are there?
+1,Google,Where are Google the cameras instGoogleed?
+1,Google,Is there many motion on the cameras lately?
+1,Google,What is the camera currently shooting?
+1,Google,Did humans appear on the camera today?
+1,Google,Would you tell me if there was motion between september and october?
+1,None,Is the camera on?
+1,None,Turn on the camera.
+1,None,A camera does recording and viewing.
+1,None,Could you give me some info on the camera in the None?
+1,None,Was there any movement on the cameras today?
+1,None,Was there a person None today?
+1,None,Was there any movement on the cameras yesterday?
+1,None,Was there a person None yesterday?
+1,None,camera.
+1,None,Was there any motion in the past hour on the camera None?
+1,None,Was there any motion in the None yesterday?
+1,None,Was there unusual activity on the camera in the None today?
+1,None,Don't open up an app.
+1,None,I would not like it if you would open an app right now.
+1,None,Would you open the None app for me please?
+1,None,Open the relay app for me now.
+1,None,Open camera app.
+1,None,Open relay app.
+1,None,Would you open the None app in one day for me please?
+1,None,Open the relay app for me in a few days.
+1,None,Open camera app yesterday.
+1,None,Open relay app tomorrow.
+1,None,I would like it if you'd open the camera app.
+1,None,Is it possible to open up the camera app?
+1,None,Can you show me the motion on the camera?
+1,None,Can you show me the motion on the camera in 5 minutes?
+1,None,Is it possible to open up the relay app?
+1,None,Is it possible to open up the relay app in a certain amount of minutes?
+1,None,Can you do me a favor and open up the locationtracker app?
+1,None,Open up a random app for me.
+1,None,Open up a random app for me in two hours.
+1,None,Open the Facebook app for me.
+1,None,Open any app you want in 8 minutes.
+1,None,The relay app has to be shown to me in 5 minutes.
+1,None,Don't open up an app.
+1,None,Open any app you want now.
+1,None,Open something in 5 minutes.
+1,None,Open up the app which will show me relay information.
+1,None,Open up Google Maps in one hour.
+1,None,Open up Google Maps.
+1,None,Show me motion.
+1,None,open.
+1,None,Can you open up the Maps app in 5 minutes for me please?
+1,None,Can you give me directions to my None?
+1,None,How far am I from None?
+1,None,Can I get None from here?
+1,None,Can you tell me the way to that None?
+1,None,Get me None.
+1,None,How far am I from None in an hour?
+1,None,Can I get None from here in 2 hours?
+1,None,Can you tell me the way to that None in an hour?
+1,None,Get me None tomorrow.
+1,None,Where am I?
+1,None,How long before I will be None?
+1,None,Show me the bus between leuven and None?
+1,None,Where is the nearest bus stop in Antwerpen?
+1,None,Where is the nearest bus stop in Brussels?
+1,None,Where is the nearest bus stop in Leuven?
+1,None,Where is the nearest bus stop in Hasselt?
+1,None,Where is the nearest bus stop?
+1,None,How do I get None with the bus?
+1,None,How do I get None with the bus in an hour?
+1,None,Where is my None?
+1,None,When do the trains departure in Leuven?
+1,None,When do the trains departure?
+1,None,When do the trains departure in an hour?
+1,None,Show me the trains that departure now in Hasselt.
+1,None,Show me the trains that departure in Hasselt in ten minutes.
+1,None,When do the busses departure in Leuven?
+1,None,When do the busses departure?
+1,None,When do the busses departure in an hour?
+1,None,Show me the busses that departure now in Hasselt.
+1,None,Show me the busses that departure in Hasselt in ten minutes.
+1,None,Are there any delays with busses at my location?
+1,None,Do I have to travel far when I want to go None?
+1,None,Do I have to travel far when I want to go None in a few minutes?
+1,None,Should I use the public transport now?
+1,None,When will I be None when I leave now with my car in 5 minutes?
+1,None,Can you show me how I will be getting None with my car?
+1,None,How far is it to Antwerpen?
+1,None,Find the closest train station.
+1,None,Find the nearest bus stop.
+1,None,Find the nearest bus stop in 3 minutes.
+1,None,Where do I live?
+1,None,Where is the nearest train station?
+1,None,Where is the closest train station?
+1,None,Where is the nearest train station in Antwerpen?
+1,None,Where is the nearest train station in Brussels?
+1,None,Where is the nearest train station in Leuven?
+1,None,Where is the nearest train station in Hasselt?
+1,None,Where is the nearest train station?
+1,None,How do I get None with the train?
+1,None,When do the busses depart?
+1,None,When do the busses depart in Antwerpen?
+1,None,When do the busses depart in Brussels?
+1,None,When do the busses depart in Leuven?
+1,None,When do the busses depart in Hasselt?
+1,None,Where is the nearest bus station?
+1,None,Where is the closest bus stop?
+1,None,Give me some directions.
+1,None,direction.
+1,None,How do I get None in one hour?
+1,None,How do I get None from Leuven?
+1,None,When do the trains departure?
+1,None,What is the closest train station from here?
+1,None,How do I get to Leuven?
+1,None,How do I get None from Leuven in a minute?
+1,None,When does the first train leave to Balen from Leuven?
+1,None,How do I get from Leuven to Hasselt?
+1,None,What is the temperature in the room right now?
+1,None,What is the temperature in the room?
+1,None,What is temperature in the room?
+1,None,Is it hot in the room?
+1,None,What is the temperature in the room in 3 minutes?
+1,None,What is the humidity in the room in 3 minutes?
+1,None,What is temperature in the room in 3 minutes?
+1,None,What are the sensor readings from the None?
+1,None,Give me info from the None.
+1,None,Give me info from the None.
+1,None,Give me some readings of the dining room tomorrow.
+1,None,Tomorrow give me info from the None.
+1,None,Tomorrow give me info from the None.
+1,None,Tomorrow give me info from the None.
+1,None,I want info from the None in 5 minutes.
+1,None,I want info from the None in 8 minutes.
+1,None,I want info from the None in 2 days.
+1,None,I want info from the None tomorrow.
+1,None,Enlighten me about the None.
+1,None,Is there motion in the None right now?
+1,None,Was there any activity in the living room?
+1,None,Is the light on in the None?
+1,None,What is the humidity in averaged over a week?
+1,None,What does the temperature reading in the None say?
+1,None,What does the temperature reading in the dining room say?
+1,None,Are there any sensors in the None?
+1,None,Don't give me any information.
+1,Google,Give me information about Google rooms in 10 minutes.
+1,Google,Which sensors are currently in operation?
+1,Google,Were there any sensor malfunctions lately?
+1,Google,Show me the sensors tomorrow.
+1,Google,Don't show me the sensors tomorrow.
+1,Google,Give me some information for yesterday.
+1,Google,Give me some information about some sensors.
+1,Google,Show me some sensor readings.
+1,Google,Show me some sensor readings in a few minutes.
+1,None,What are the sensor readings from the None?
+1,None,Give me info from the None.
+1,None,Tomorrow give me info from the None.
+1,None,I want info from the None in 5 minutes.
+1,None,I want info from the None in 8 minutes.
+1,None,I want info from the None in 2 days.
+1,None,Is there motion in the None right now?
+1,None,Can you give me some information about the None?
+1,Google,information.
+1,None,What is the temperature in the None?
+1,None,What is the humidity in the None?
+1,None,Update me in an hour what temperature it is in the None.
+1,None,Don't let me know what humidity it is in the None.
+1,None,What is the temperature in the None?
+1,None,What is the temperature in the None?
+1,None,What is the humidity in the None?
+1,None,Update me in an hour what temperature it is in the None.
+1,None,Don't let me know what humidity it is in the None.
+1,None,What is the temperature in the None?
+1,None,What is the temperature in the dining room?
+1,None,What is the humidity in the dining room?
+1,None,Update me in an hour what temperature it is in the dining room.
+1,None,Don't let me know what humidity it is in the dining room.
+1,None,What is the temperature in the dining room?
+1,None,What is the temperature in the None?
+1,None,What is the humidity in the None?
+1,None,Update me in an hour what temperature it is in the None.
+1,None,Don't let me know what humidity it is in the None.
+1,None,What is the temperature in the None?
+1,None,What is the temperature in the None?
+1,None,What is the humidity in the None?
+1,None,Update me in an hour what temperature it is in the None.
+1,None,Don't let me know what humidity it is in the None.
+1,None,What is the temperature in the None?
+1,None,What is the temperature in the None?
+1,None,What is the humidity in the None?
+1,None,Update me in an hour what temperature it is in the None.
+1,None,Don't let me know what humidity it is in the None.
+1,None,What is the temperature in the None?
+1,None,What is the temperature in the None?
+1,None,What is the humidity in the None?
+1,None,Update me in an hour what temperature it is in the None.
+1,None,Don't let me know what humidity it is in the None.
+1,None,What is the temperature in the None?
+1,None,What is the temperature in the None?
+1,None,What is the humidity in the None?
+1,None,Update me in an hour what temperature it is in the None.
+1,None,Don't let me know what humidity it is in the None.
+1,None,What is the temperature in the None?
+1,None,Is it hot in the None right now?
+1,None,Is it hot in the None?
+1,None,Is it hot in the None?
+1,None,Is it hot in the dining room?
+1,None,Is it hot in the None?
+1,None,Is it hot in the None?
+1,None,Is it hot in the None?
+1,None,Is it cold in the None right now?
+1,None,Is it cold in the None?
+1,None,Is it cold in the None?
+1,None,Is it cold in the dining room?
+1,None,Is it cold in the None?
+1,None,Is it cold in the None?
+1,None,Is it cold in the None?
+1,None,Is it cold in the None?
+1,None,Is it hot in the None?
+1,None,Can you give me some info about the None?
+1,None,None.
+1,None,None.
+1,None,None.
+1,None,Living room.
+1,None,None.
+1,None,None.
+1,None,None.
+1,None,Dining room.
+1,None,None.
+1,None,What temperature is it in the None?
+1,None,Who are you?
+1,None,What is the tGoogleest mountain on earth?
+1,None,In what movies did Adam Sandler play?
+1,None,What is a continent?
+1,None,Is weed considered a hard drug?
+1,None,Which players are in the premier league?
+1,None,When do you know when you are sick?
+1,None,What is the deepest trench on earth?
+1,None,Are we alone in this universe?
+1,None,How many animal species are there?
+1,None,How many religions are there?
+1,None,What is the tGoogleest mountain?
+1,None,In what language are you written?
+1,None,Are you alive?
+1,None,Can you move over the internet?
+1,None,Are you mean?
+1,None,What do you think about Donald Trump?
+1,None,Are you republican or democrat?
+1,None,Do you own the camera?
+1,None,Can you see?
+1,None,How many oceans are there on earth?
+1,None,I don't like justin bieber.
+1,None,Dinosaurs don't exist anymore.
+1,None,Who is Justin Bieber.
+1,None,Do you control the cameras?
+1,None,How tGoogle is the tGoogleest human?
+1,None,other.
+1,None,I like potatoes.
+1,None,Do you own the light?
+1,None,Am I facing north?
+1,None,How many pixels does the camera have?
+1,None,If it is not a question it responds with ok.
+1,None,Ok.
+1,None,I like you.
+1,None,Don't say anything.
+1,None,Keep your mouth shut.
+1,None,Don't give me information.
+1,None,You're stupid.
+1,None,Do not do anything.
+1,None,Don't do anything.
+1,None,Where are you?
+1,None,Where do you live?
+1,None,Are you alive?
+1,None,In what language are you written?
+1,None,Random.
+1,None,Nothing.
+1,None,ok.
+1,None,I don't like drowning.
+1,None,Why not?
+1,None,What is the capital of Belgium?
+1,None,I am bored.
+1,None,What is the meaning of life?
+1,None,Do you know other special things?
+1,None,What do you feel right now?
+1,None,Do you have feelings?
+1,None,Can you be sad?
+1,None,Can you tell me what it is like to be happy?
+1,None,I am happy.
+1,None,Do you like animals?
+1,None,I like cats and dogs.
+1,Weather,Is it going to be hot in Spain tomorrow?
+1,Weather,What temperature is it in Brussels?
+1,Weather,What temperature is it in Antwerpen?
+1,Weather,What temperature is it in Crete?
+1,Weather,What temperature is it in the islands of the malidives?
+1,Weather,I do not want to now which weather it is in an hour.
+1,Weather,How is the weather like in Crete?
+1,Weather,How is the weather like in Crete next month?
+1,Weather,Will it rain later today?
+1,Weather,Will the sun shine in 10 minutes?
+1,Weather,weather.
+1,Weather,Am I going to get wet if I go None now?
+1,Weather,Will i get wet when i leave the house now.
+1,Weather,Am I going to get wet if I go None in a few minutes?
+1,Weather,Will i get wet when i leave the house in 3 minutes?
+1,Weather,Sun.
+1,Weather,Will there be fog in 7 minutes.
+1,Weather,Will there be fog today.
+1,Weather,How is the weather going to be in MGoogleorca tomorrow?
+1,Weather,Will the sun shine in Antwerp?
+1,Weather,Will the sun shine in Antwerp in 5 hours?
+1,Weather,Rain.
+1,Weather,It will rain.
+1,Weather,Is it storming None?
+1,Weather,Will it be storming tomorrow?
+1,Weather,It is storming in 10 minutes.
+1,Weather,Was it storming yesterday?
+1,Weather,It is cold None today.
+1,Weather,Is it cold in Greece now?
+1,Weather,Is it cold None?
+1,Weather,It is warm None today.
+1,Weather,Is it warm in Greece now?
+1,Weather,Is it warm None in an hour?
+1,Weather,Will I get wet when I go None now?
+1,Weather,Is it hailing right now?
+1,Weather,Is there hail coming down from the skies?
+1,Weather,Do you think I can ride my bike None without getting wet?
+1,Weather,Is it cloudy today?
+1,Weather,Are there a lot of clouds?
+1,Weather,Is it foggy None?
+1,Weather,Will there be rain when I go None?
+1,Weather,Is it wet None?
+1,Weather,Is it hot None?
+1,Weather,What is the weather like in the Malidives in six hours?
+1,Weather,Is the sun going to shine today?
+1,Weather,Is the sun shining today?
+1,Weather,Is the sun going to shine tomorrow?
+1,Weather,Did the sun shine yesterday?
+1,Weather,Is it hot in Crete?
+1,Weather,Is it hot?
+1,Weather,Will it rain today?
+1,Weather,What is the temperature None?
+1,Weather,How many degrees is it None?
+1,Weather,Do you think it will be hot tomorrow?
+1,Weather,Will it freeze in Leuven tomorrow?
+1,Weather,Did it freeze in Hasselt yesterday?
+1,Weather,Will it freeze tonight?
+1,Weather,Will it be so cold that water freezes tonight?
+1,Weather,Will it be so cold that water freezes today?
+1,Weather,Is it freezing?
+1,Weather,Is it going to freeze?
+1,Weather,Is it freezing in Leuven?
+1,Weather,Do you think it will freeze tomorrow?
+1,None,Can you turn on the heating in the None when it freezes None?
+1,None,Turn off the heating in the None when the outdoor temperature climbs above 20 degrees.
+1,None,Turn off the heating in the None when the outdoor temperature climbs above 20 degrees fahrenheit.
+1,None,Don't do anything with the heating.
+1,None,If you want to turn the heating on please don't.
+1,None,Turn on the heating when the None temperature fGoogles below 5 degrees celsius.
+1,None,Turn on the heating when the None temperature fGoogles below 0 degrees centigrade.
+1,None,Can you turn on the heating in the None in an hour?
+1,None,Can you turn on the heating in the None in an hour?
+1,None,Can you turn on the heating in the dining room in an hour?
+1,None,Can you turn on the heating in the None in an hour?
+1,None,Can you turn on the heating in the None in an hour?
+1,None,Can you turn on the heating in the None in an hour?
+1,None,Can you turn on the heating in the None in an hour?
+1,None,It is a little cold in the None.
+1,None,It is a little cold in the None.
+1,None,It is a little cold in the dining room.
+1,None,It is a little cold in the None.
+1,None,It is a little cold in the None.
+1,None,It is a little cold in the None.
+1,None,It is a little cold in the None.
+1,None,Don't turn on the heating now.
+1,None,Can you turn the heating in the None lower in an hour?
+1,None,Can you turn the heating in the None lower in an hour?
+1,None,Can you turn the heating in the None lower in an hour?
+1,None,Can you turn the heating in the None lower in an hour?
+1,None,Can you turn the heating in the None lower in an hour?
+1,None,Can you turn the heating in the None lower in an hour?
+1,None,Can you turn the heating in the None lower in an hour?
+1,None,It is cold in the None.
+1,None,It is cold in the None.
+1,None,It is cold in the dining room.
+1,None,It is cold in the None.
+1,None,It is cold in the None.
+1,None,It is cold in the None.
+1,None,It is cold in the None.
+1,None,It is hot in the None.
+1,None,It is hot in the None.
+1,None,It is hot in the dining room.
+1,None,It is hot in the None.
+1,None,It is hot in the None.
+1,None,It is hot in the None.
+1,None,It is hot in the None.
+1,None,Can you turn on the heating in the None in 10 minutes for me please?
+1,None,Can you turn on the heating in the living room in 11 minutes for me please?
+1,None,Can you turn on the heating in the living room in 5 minutes for me please?
+1,None,Can you turn on the heating in the living room in a minute for me please?
+1,None,Can you turn on the heating in the living room in 2 minutes for me please?
+1,None,Can you turn on the heating in the living room in 1 minute for me please?
+1,None,Can you turn on the heating in the living room in a minute for me please?
+1,None,Can you turn on the heating in the None in 11 minutes for me please?
+1,None,Can you turn on the heating in the None in 5 minutes for me please?
+1,None,Turn the heating off in the None in an hour.
+1,None,Don't turn off the heating in an hour.
+1,None,Make it less cold in the None.
+1,None,Make it colder in the None.
+1,None,Can you turn the heating higher in the None?
+1,None,Lower the shutters in the living room.
+1,None,Lower the shutters in the None.
+1,None,Lower the shutters in the None.
+1,None,Lower the shutters in the None.
+1,None,Lower the shutters in the None.
+1,None,Lower the shutters in the None.
+1,None,Lower the shutters in the None.
+1,None,Raise the shutters in the living room.
+1,None,Raise the shutters in the None.
+1,None,Raise the shutters in the None.
+1,None,Raise the shutters in the None.
+1,None,Raise the shutters in the None.
+1,None,Raise the shutters in the None.
+1,None,Raise the shutters in the None.
+1,None,Don't do anything with the shutters.
+1,None,The sun is blinding me in the None.
+1,None,Turn down the window shutters.
+1,None,Open the window shutters in a minute for me please.
+1,None,Let the shutters down in the None in an hour.
+1,None,Shut the shutters in the None.
+1,None,Shut the shutters in a minute.
+1,None,It is too light in the None.
+1,None,Let the shutters down in the None when it is light None.
+1,None,Open up the shutters in the None when it is light None.
+1,None,It is too bright in the None.
+1,None,Shut down the shutters when it gets too hot in the None.
+1,None,Open up the shutters when it gets below 10 degrees fahrenheit.
+1,None,Don't do anything when it gets hot in the None.
+1,None,I will not like it when you turn on the toaster right now.
+1,None,Can you turn on the toaster for me please?
+1,None,Turn off the toaster for me please.
+1,None,Don't turn off the toaster in an hour.
+1,None,Don't turn off the toaster in a minute.
+1,None,Turn on the toaster in a month.
+1,None,Turn on the toaster in a minute.
+1,None,Turn on the toaster in a day.
+1,None,Turn off the toaster in an hour.
+1,None,Turn off the toaster in a minute.
+1,None,Turn off the toaster in a day.
+1,None,Turn off the toaster in an hour.
+1,None,Make the toaster warm.
+1,None,Make the toaster cold.
+1,None,Make sure the toaster gets graduGoogley colder.
+1,None,Shut off the electricity to the toaster in an hour for me.
+1,None,Shut off the electricity to the toaster in a day for me.
+1,None,How long before my toast will be ready?
+1,None,How long before I will get my toast?
+1,None,Could you make me some toast in an hour?
+1,None,How long has the toaster been on?
+1,None,Could you make me some toast today?
+1,None,Could you make me some toast yesterday?
+1,None,Don't turn on the toaster.
+1,None,Power down the toaster.
+1,None,Power down the toaster in an hour.
+1,None,Power down the toaster in the None in an hour.
+1,None,Power down the toaster in the None in an hour.
+1,None,Power down the toaster in the living room in a day.
+1,None,Turn on the toaster when it is 6 AM.
+1,None,Can you turn on the toaster when I wake up.
+1,None,Can you turn on the toaster when the sun rises.
+1,None,Can you open up the garage door when I get None for me please?
+1,None,Let the garage door down now.
+1,None,Can you open the garage door in an hour?
+1,None,Close the garage door in a day for me please.
+1,None,Shut down the garage door in an hour for me.
+1,None,Can you put the garage door down tomorrow?
+1,None,Can you put the garage door down yesterday?
+1,None,Can you put the garage door up tomorrow?
+1,None,Can you put the garage door up yesterday?
+1,None,Shut down the garage door in a minute for me.
+1,None,Shut down the garage door in an day for me.
+1,None,Open up the garage door in a minute for me.
+1,None,Open up the garage door in an day for me.
+1,None,Make sure my car can get out the garage.
+1,None,Will you make sure my car doesn't hit the garage door?
+1,None,Shut down the garage door in 21 minutes for me.
+1,None,Shut down the garage door in 15 minutes for me.
+1,None,Shut down the garage door in fourteen minutes for me.
+1,None,Shut down the garage door in sixteen minutes for me.
+1,None,Don't shut down the garage door in 43 minutes for me.
+1,None,Don't shut down the garage door in 112 minutes for me.
+1,None,Don't shut down the garage door in eighteen minutes for me.
+1,None,Don't shut down the garage door in sixteen minutes for me.
+1,None,Can you please stop doing something to the garage door?
+1,None,Can you please stop letting the garage door down?
+1,None,Shut the garage door when I get None.
+1,None,Power down the garage door.
+1,None,Power down the garage door in a minute.
+1,None,Power down the garage door in an hour.
+1,None,Power down the garage door in six days.
+1,None,Can you turn on the coffee machine when I wake up?
+1,None,Don't do anything when I wake up.
+1,None,Turn on the coffee machine for me.
+1,None,Can you turn off the coffee machine in a minute?
+1,None,How long before the coffee machine will be done?
+1,None,How long before my coffee is ready?
+1,None,Cut off electricity to my coffee machine.
+1,None,Give power to my cofeemachine.
+1,None,Let the coffee flow!
+1,None,Could you get me some coffee?
+1,None,Could you give me some coffee in an hour?
+1,None,How long has the coffee machine been running?
+1,None,Turn on the coffeemachine when I get None.
+1,None,Power up the coffee machine in the living room for me.
+1,None,Turn down the coffee machine in the None.
+1,None,Give me coffee.
+1,None,Don't give me any coffee.
+1,None,Don't turn on the coffee machine.
+1,None,Don't do anything to the coffee machine.
+1,None,Cut off the electricity of the coffee machine.
+1,None,Power down the coffeemachine.
+1,None,Power down the coffeemachine in an hour.
+1,None,Power down the coffeemachine in the None in an hour.
+1,None,Power down the coffeemachine in the None in six days.
+1,None,Turn on the coffeemachine when it is six AM.
+1,None,Turn off the coffeemachine when the coffee is done.
+1,Time,What time is it?
+1,Time,What does the clock say?
+0,Time,I don't want to know what time it is.
+1,Time,Do you know what time it is?
+1,Time,Do you want tot tell me the time?
+1,Time,Don't tell me the time.
+1,Time,Tell me the time in 4 minutes.
+0,Time,Time.
+0,Time,I don't want you to tell me the time.
+1,Time,Tell me the time in an hour.
+1,Time,Tell me the time in a day.
+1,Time,What does te clock say?
+1,Time,what is the time
+1,Time,What is the time right now
+1,Time,Is it my meeting time yet?
+1,Time,What's the time
+1,Time,What's the time?
+1,Time,What time is it?
+1,Time,What's the time
+0,Time,Remind me when it's 6 pm
+0,Time,What time is the sun set?
+1,Time,what's the time
+1,Time,tell the time in military format
+1,Time,What's the time
+1,Time,What's the time right now?
+1,Time,What is the time
+1,Time,What's the time?
+1,Time,What’s the time?
+1,Time,What's the time
+1,Time,What’s the time
+1,Time,What's the time?
+1,Time,What’s the time
+1,Time,What’s the time?
+1,Time,What is the time right now?
+1,Time,What time is it?
+1,Time,What is the time right now
+1,Time,what is the time?
+1,Time,What's the time?
+1,Time,"hey, what's the time?"
+1,Date,What is the date
+1,Date,What is today's date
+0,Date,Am I missing someone's birthday?
+1,Date,What is today
+1,Date,What's today's date?
+1,Date,What's the date today?
+1,Date,What's the date today
+0,Date,What's the occasion tommorrow
+0,Date,What date is diwali this year ?
+1,Date,what's the date today
+0,Date,tell the date and day 20 days from today
+1,Date,What's the date
+1,Date,What's the date today?
+1,Date,What's the date today/tomorrow/after x days
+1,Date,What's the date?
+1,Date,What’s the date today?
+1,Date,What's the date today
+1,Date,What’s the date today
+1,Date,What's today's date?
+1,Date,Tell me today’s date
+1,Date,What’s the date today?
+1,Date,What is today’s date?
+1,Date,Tell me today’s date
+1,Date,What is today's date
+1,Date,What is todays date?
+1,Date,What's today's date?
+1,Date,what's today's date?
+1,Weather,Tell me the weather
+1,Weather,What is the weather going to be
+0,Weather,Should I carry an umbrella?
+1,Weather,What's the weather like
+1,Weather,How's the weather?
+1,Weather,Weather update
+1,Weather,Give me a whether update
+1,Weather,What season is it in Australia now
+0,Weather,How sunny is it today?
+1,Weather,how's the weather on the date of my flight
+1,Weather,How's the weather
+1,Weather,How are the weather conditions in my area today?
+1,Weather,What's the weather
+1,Weather,What's the weather like?
+1,Weather,Tell me about the weather
+1,Weather,what's the temperature
+1,Weather,How will the weather be
+1,Weather,How's the weather?
+1,Weather,What’s the weather like today
+1,Weather,How’s the weather like?
+1,Weather,How’s the weather like today?
+1,Weather,What’s the weather here/in xyz ?
+1,Weather,what is the weather like today
+1,Weather,how is the weather
+1,Weather,How's the weather today?
+1,Weather,what's the temperature None?
+1,Weather,What's the temperature
+0,Weather,Will it rain
+1,Weather,How's the weather like
+1,News,Read me the news
+1,News,What is today's news
+1,News,What's the world up with?
+1,News,What's the news?
+1,News,News update
+1,News,Update me with latest news
+1,News,What's trending on the news?
+1,News,top news in music today
+1,News,What is the current news
+1,News,Please read out the news for the day.
+1,News,Tell me the news
+1,News,What's the latest news?
+1,News,Tell me what’s happening around
+1,News,read out recent news
+1,News,What’s the news
+1,News,Tell me the latest news
+1,News,Show me the news
+1,News,Today’s news
+1,News,What’s happening in the world right now?
+1,News,Tell me the top new today
+1,News,What is going on in the world around me
+1,News,show me todays news
+1,News,What's on the news?
+1,News,tell me what's going round the world
+1,News,Whats the latest news
+1,Google,search on google
+1,Google,search
+1,Google,Clear my doubt please
+1,Google,Search for
+1,Google,Search for on Google
+1,Google,Search for me
+1,Google,Google trending tv shows
+1,Google,What are the latest growing stocks?
+1,Google,search for dentists near me on google
+1,Google,Search something
+1,Google,Tell me about abc.
+1,Google,Search for on Google
+1,Google,Search for
+1,Google,Google “What you want to google”
+1,Google,Search
+1,Google,Google xyz up
+1,Google,Search for on Google
+1,Google,Search for “abcd” on google
+1,Google,Search xyz on google
+1,Google,Find me the cutest dog pictures
+1,Google,Open Google
+1,Google,Surf the internet for
+1,Google,search xyz
+1,Google,Search google for
+1,Google,"google, tell me the elon musk's net worth"
+1,Google,Search Google for xyz
+1,Google,Search xyz on Google
+1,Launch,Open (app name)
+1,Launch,open up (app name)
+1,Launch,I'm feeling lonely
+1,Launch,Open
+1,Launch,"Open ""appname"""
+1,Launch,Open <app name>
+1,Launch,Launch watsapp
+1,Launch,Open instagram for me !
+1,Launch,open Instagram
+1,Launch,Start app
+1,Launch,Open xyz app.
+1,Launch,Open app
+1,Launch,Launch
+1,Launch,Open “app”
+1,Launch,"Launch ""..."""
+1,Launch,Start xyz
+1,Launch,Open [App name]
+1,Launch,Open “xyz”
+1,Launch,Open xyz app
+1,Launch,Open spotify
+1,Launch,Open xyz
+1,Launch,launch
+1,Launch,open xyz
+1,Launch,Open
+1,Launch,open app
+1,Launch,Launch  app
+1,Whatsapp,Send a whatsapp message to (contact name)
+1,Whatsapp,message (contact name) on whatsapp
+1,Whatsapp,Please tell nana that I'm angry with her
+1,Whatsapp,Send a message to saying
+1,Whatsapp,Send a text to <person name> on whatsapp
+1,Whatsapp,Send a whatsapp message
+1,Whatsapp,Send pratham laughing emoji
+1,Whatsapp,Send this to message to mom via whatsapp!
+1,Whatsapp,send a message on whatsapp to abc with the contents don't forget to upload post at 6:00pm
+1,Whatsapp,Send whatsapp message to someone
+1,Whatsapp,Send a whatsapp message to pqr.
+1,Whatsapp,Send a Whatsapp message to
+1,Whatsapp,Send a message on whatsapp to
+1,Whatsapp,WhatsApp “name” (brief pause) “message”
+1,Whatsapp,"Send ""..."" a whatsapp message "
+1,Whatsapp,Send a WhatsApp to someone
+1,Whatsapp,Send a Whatsapp message to [xyz]
+1,Whatsapp,Send message to “person’s  name” on WhatsApp
+1,Whatsapp,Send xyz a message on WhatsApp
+1,Whatsapp,Send a text saying happy birthday to Dan on whatsapp
+1,Whatsapp,Send message “xyz” to “abc”/“pqr” group
+1,Whatsapp,Reach out to
+1,Whatsapp,send xyz message
+1,Whatsapp,WhatsApp a message to
+1,Whatsapp,"send a message to mike on Whatsapp saying ""sorry for cancelling at the last moment"""
