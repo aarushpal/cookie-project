@@ -116,7 +116,8 @@ if(flag is True):
     mic = sr.Microphone()
     #st.write("Speak Command for virtual assistant")
     with mic as source:
-        print("SPEAK: ")
+        pyttsx3.speak("Hello, my name is Pushpa. How may I help you?")
+        print("Hello, my name is Pushpa. How may I help you?")
         command_audio = r.listen(source)
     command_text = r.recognize_google(command_audio)
     print(command_text)
@@ -145,6 +146,7 @@ if(flag is True):
 if(labels_pred == np.array([1]) or labels_pred == np.array([3])):
         for j in search(command_text, tld='com', num=10, stop=10, pause=2):
             print(j)
+        pyttsx3.speak("Here are the results for your query")
 
 
 
@@ -164,13 +166,18 @@ elif(labels_pred == np.array([2])):
 	    time = soup.select('#wob_dts')[0].getText().strip()
 	    info = soup.select('#wob_dc')[0].getText().strip()
 	    weather = soup.select('#wob_tm')[0].getText().strip()
-	    print(location)
+	    print(location) 
 	    print(time)
 	    print(info)
 	    print(weather+"°C")
 
-
-    city = input("Enter the Name of City -> ")
+    r = sr.Recognizer()
+    mic = sr.Microphone()
+    with mic as source:
+        print("Speak the City")
+        city_audio = r.listen(source)
+    city = r.recognize_google(city_audio)
+    #city = input("Enter the Name of City -> ")
     city = city+" weather"
     weather(city)
 
@@ -183,7 +190,8 @@ elif(labels_pred == np.array([4]) or labels_pred ==  np.array([5])):
         datetime.now(IST))
   
     datetime_ist = datetime.now(IST)
-    print("Date & Time in IST : ", datetime_ist.strftime('%Y:%m:%d %H:%M:%S %Z %z'))
+    pyttsx3.speak("Date and Time in I S T" + datetime_ist.strftime('%Y:%m:%d %H:%M:%S %Z %z'))
+    #print("Date & Time in IST : ", datetime_ist.strftime('%Y:%m:%d %H:%M:%S %Z %z'))
 
 
 elif(labels_pred == np.array([7])):
@@ -197,15 +205,21 @@ elif(labels_pred == np.array([7])):
         print(n)
         for index in result[n]:
             print(index, '\n', result[n][index])
-            exit()
+    exit()
 
     
 
 elif(labels_pred == np.array([6])):
       
-    print("\n\t 1.MICROSOFT WORD \t 2.MICROSOFT POWERPOINT \n\t 3.MICROSOFT EXCEL \t 4.GOOGLE CHROME \n\t 5.VLC PLAYER	 \t 6.ADOBE ILLUSTRATOR \n\t 7.ADOBE PHOTOSHOP \t 8.MICROSOFT EDGE \n\t 9.NOTEPAD	 \t 10.CAMERA \n\n\t\t	 0. FOR EXIT")
+    print("\n\t 1.MICROSOFT WORD \t 2.MICROSOFT POWERPOINT \n\t 3.MICROSOFT EXCEL \t 4.GOOGLE CHROME \n\t 5.VLC PLAYER \t 6.MICROSOFT EDGE \n\t 7.NOTEPAD \n\n\t\t	 0. FOR EXIT")
     while True:
-        p = input()
+        r = sr.Recognizer()
+        mic = sr.Microphone()
+        with mic as source:
+            print("Speak the Application name")
+            input_audio = r.listen(source)
+        p = r.recognize_google(input_audio)
+        #p = input()
         p = p.upper()
         
         if ("DONT" in p) or ("DON'T" in p) or ("NOT" in p):
@@ -263,14 +277,6 @@ elif(labels_pred == np.array([6])):
             print(".")
             print(".")
             os.system("start winword.exe")
-
-        # elif ("camera" in p) or ("photo" in p) or ("10" in p):
-        #     pyttsx3.speak("Opening")
-        #     pyttsx3.speak("CAMERA")
-        #     print(".")
-        #     print(".")
-        #     import subprocess,os
-        #     subprocess.run('start microsoft.windows.camera:', shell=True)
             
 
         
@@ -299,6 +305,7 @@ elif(labels_pred == np.array([8])):
     mic = sr.Microphone()
     with mic as source:
         print("Speak reciever's mobile number: ")
+        pyttsx3.speak("Speak reciever's mobile number: ")
         mobile_audio = r.listen(source)
     mobile_text = r.recognize_google(mobile_audio)
     mobile = "+91" + mobile_text
@@ -306,22 +313,26 @@ elif(labels_pred == np.array([8])):
     print(mobile)
     #mobile = input("Enter reciever's mobile number with country code: ")
     with mic as soure:
+        pyttsx3.speak("Dictate the message:")
         print("Dictate the message:")
         message_audio = r.listen(source)
     message = r.recognize_google(message_audio)
     #message = input("Enter message you want to send: ")
     with mic as soure:
-        print("Dictate the hours at which you want to send (1 - 24):")
+        pyttsx3.speak("Dictate the hour at which you want to send in the 24 hour format:")
+        print("Dictate the hour at which you want to send (0 - 23):")
         hours_audio = r.listen(source)
     hours = int(r.recognize_google(hours_audio))
     print(hours)
     #hours = int(input("Enter the hours when you want to send: "))
     with mic as soure:
-        print("Dictate the minutes at which you want to send (0 - 59):")
+        pyttsx3.speak("Dictate the minute at which you want to send:")
+        print("Dictate the minute at which you want to send (0 - 59):")
         minutes_audio = r.listen(source)
     minutes = int(r.recognize_google(minutes_audio))
     print(minutes)
     #minutes = int(input("Enter the minutes when you want to send: "))
+    pyttsx3.speak("Please press Enter key to send the message when whatsapp opens")
     pywhatkit.sendwhatmsg(mobile, message, hours, minutes, wait_time=0)
 
 else:
