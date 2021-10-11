@@ -124,7 +124,7 @@ if(flag is True):
     classification_model = load_model('finalmodel2.h5')
     vocab_size = 30000
     embedding_dim  = 32
-    max_length = 256
+    max_length = 128
     with open('tokenizer.json') as f:
         tokens_json = json.load(f)
         tokenizer = tokenizer_from_json(tokens_json)
