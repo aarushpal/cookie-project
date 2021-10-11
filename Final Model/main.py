@@ -116,8 +116,8 @@ if(flag is True):
     mic = sr.Microphone()
     #st.write("Speak Command for virtual assistant")
     with mic as source:
-        pyttsx3.speak("Hello, my name is Pushpa. How may I help you?")
-        print("Hello, my name is Pushpa. How may I help you?")
+        pyttsx3.speak("Hello, my name is Cookie. How may I help you?")
+        print("Hello, my name is Cookie. How may I help you?")
         command_audio = r.listen(source)
     command_text = r.recognize_google(command_audio)
     print(command_text)
@@ -174,13 +174,13 @@ elif(labels_pred == np.array([2])):
     r = sr.Recognizer()
     mic = sr.Microphone()
     with mic as source:
+        pyttsx3.speak("Speak the city")
         print("Speak the City")
         city_audio = r.listen(source)
     city = r.recognize_google(city_audio)
     #city = input("Enter the Name of City -> ")
     city = city+" weather"
     weather(city)
-
 
 elif(labels_pred == np.array([4]) or labels_pred ==  np.array([5])):
 
