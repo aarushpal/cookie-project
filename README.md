@@ -9,7 +9,7 @@ Aarush Pal - Launch app and Date-Time |
 Deepesh Garg - Google news and Google Search | 
 Saatvik Maheshwari - Weather, Whatsapp message, Date-Time | 
 Mihir Agarwal - Speech to text | 
-Text to speech - Everyone 
+Text to speech - Everyone | 
 Streamlit deployment - Everyone
 
 Please note: The final main.py file is outside the final model folder
